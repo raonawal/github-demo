@@ -1,1 +1,1 @@
-Test git quick start demo
+Test git quick start demo.    This is how you should start learning git. Ashwin is machine. Just try to be as fast as possible.
